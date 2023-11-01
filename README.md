@@ -69,3 +69,7 @@ Trigonometría o cursos que la incluyen. Estos problemas se han seleccionado de 
 esenciales y desarrollar las habilidades necesarias para dominar la Trigonometría. Ya sea que estudies esta materia de 
 forma independiente o como parte de un programa más amplio, estos desafíos te ayudarán a fortalecer tu comprensión y 
 habilidades en Trigonometría, preparándote para un aprendizaje efectivo y exitoso.
+
+<p align=center>
+CAPITULO 5
+<p align=left>
